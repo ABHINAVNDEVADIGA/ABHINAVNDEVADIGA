@@ -14,17 +14,16 @@
 
 <p align="center">
   <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAVNDEVADIGA&layout=compact&theme=radical&hide_border=true&hide=Jupyter%20Notebook"
-  width="400"
-  height="180"
-/>
+    src="https://github-readme-stats.vercel.app/api?username=ABHINAVNDEVADIGA&show_icons=true&theme=radical&hide_border=true"
+    width="400"
+    height="180"
+  />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAVNDEVADIGA&layout=compact&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAVNDEVADIGA&layout=compact&theme=radical&hide_border=true&hide=Jupyter%20Notebook"
     width="400"
     height="180"
   />
 </p>
-
 
 ---
 
