@@ -12,16 +12,13 @@
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=ABHINAVNDEVADIGA&theme=radical&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAVNDEVADIGA&layout=compact&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="180"
+       src="https://streak-stats.demolab.com?user=ABHINAVNDEVADIGA&theme=radical&hide_border=true" />
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAVNDEVADIGA&layout=compact&theme=radical&hide_border=true" />
+</p>
+
 
 ---
 
