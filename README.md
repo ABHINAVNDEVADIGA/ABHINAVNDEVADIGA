@@ -25,10 +25,11 @@
     width="400"
   />
   <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAVNDEVADIGA&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true"
-  alt="Top Languages"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ABHINAVNDEVADIGA&theme=radical"
+  alt="Languages by Repo Count"
   width="400"
 />
+
 
 </p>
 
