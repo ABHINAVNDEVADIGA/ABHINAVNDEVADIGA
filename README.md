@@ -25,10 +25,11 @@
     width="400"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAVNDEVADIGA&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages"
-    width="400"
-  />
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAVNDEVADIGA&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true"
+  alt="Top Languages"
+  width="400"
+/>
+
 </p>
 
 ---
