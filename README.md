@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Abhinav N Devadiga</h1>
+<h1 align="center">Hi 👋, I'm ABHINAV</h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Final+Year+CSE+Student;Open+to+Opportunities"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Open+to+Opportunities"
     alt="Typing SVG"
   />
 </p>
@@ -11,6 +11,23 @@
   <img
     src="https://komarev.com/ghpvc/?username=ABHINAVNDEVADIGA&label=Profile%20Views&color=6366f1&style=flat"
     alt="Profile Views"
+  />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ABHINAVNDEVADIGA&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
+    alt="GitHub Stats"
+    width="400"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAVNDEVADIGA&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"
+    alt="Top Languages"
+    width="400"
   />
 </p>
 
@@ -65,6 +82,7 @@
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda_Navigator-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -78,7 +96,7 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/ABHINAVNDEVADIGA/ABHINAVNDEVADIGA/output/github-snake-dark.svg"
-    alt="GitHub Contribution Snake"
+    alt="Contribution Snake"
   />
 </p>
 
