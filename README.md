@@ -16,33 +16,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 Final Year **Computer Science Engineering** student  
-- 💻 Passionate about **Full Stack Development** & **AI / ML**
-- 🚀 Actively preparing for **Software Engineer roles**
-- 🧠 Strong interest in **DSA, System Design & Scalable Apps**
-- 📍 Bengaluru, India
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ABHINAVNDEVADIGA&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"
-    width="400"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAVNDEVADIGA&layout=compact&theme=radical&hide_border=true&langs_count=8"
-    width="400"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 ## ⚡ Tech Stack 🚀
 
 <p align="center">
