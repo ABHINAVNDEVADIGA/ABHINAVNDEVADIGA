@@ -20,14 +20,21 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ABHINAVNDEVADIGA&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ABHINAVNDEVADIGA&theme=radical"
     alt="GitHub Stats"
     width="400"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAVNDEVADIGA&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ABHINAVNDEVADIGA&theme=radical"
     alt="Top Languages"
     width="400"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=ABHINAVNDEVADIGA&theme=radical&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
