@@ -25,7 +25,7 @@
     width="400"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/languages?username=ABHINAVNDEVADIGA&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAVNDEVADIGA&layout=compact&theme=radical&hide_border=true"
     alt="Top Languages"
     width="400"
   />
