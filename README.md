@@ -21,18 +21,14 @@
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ABHINAVNDEVADIGA&theme=radical"
-    alt="GitHub Stats"
     width="400"
   />
- 
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ABHINAVNDEVADIGA&theme=radical"
-/>
-
-
-
-
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ABHINAVNDEVADIGA&theme=radical"
+    width="400"
+  />
 </p>
+
 
 ---
 
