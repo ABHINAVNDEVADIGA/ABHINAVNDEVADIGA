@@ -26,9 +26,9 @@
   />
  
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAVNDEVADIGA&layout=compact&theme=radical&langs_count=10&hide_border=true" 
-  alt="Top Languages Used (Percentage)" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ABHINAVNDEVADIGA&theme=radical"
 />
+
 
 
 
