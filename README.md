@@ -24,9 +24,10 @@
     alt="GitHub Stats"
     width="400"
   />
-  <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAVNDEVADIGA&layout=compact&theme=radical&langs_count=10" 
-  alt="Top Languages by Percentage" 
+ 
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAVNDEVADIGA&layout=compact&theme=radical&langs_count=10&hide_border=true" 
+  alt="Top Languages Used (Percentage)" 
 />
 
 
