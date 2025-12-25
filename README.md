@@ -24,11 +24,11 @@
     alt="GitHub Stats"
     width="400"
   />
-  <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ABHINAVNDEVADIGA&theme=radical"
-  alt="Languages by Repo Count"
-  width="400"
+  <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAVNDEVADIGA&layout=compact&theme=radical&langs_count=10" 
+  alt="Top Languages by Percentage" 
 />
+
 
 
 </p>
